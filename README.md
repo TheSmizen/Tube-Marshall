@@ -4,6 +4,8 @@ Travelling Salesman - here we go.
 Trying to -uh- marshall ourselves around the tube network. All sorts of stuff is going to go into this.
 Using some combination of the Google Maps and TFL APIs, create a program to map out a best-case tube challenge.
 
+http://www.tubechallenge.com/forum/
+
 ## TODO:
 ### Research:
 - [ ] Test out API calls to https://api.tfl.gov.uk/
