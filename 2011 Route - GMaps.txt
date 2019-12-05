@@ -1,0 +1,65 @@
+gmaps estimate 1:
+Start date: Saturday - 4th Jan 2020
+
+06:27	Chesham
+06:36	Chalfont & Latimer - 
+06:44	Backtrack to Amersham
+07:06	Moor Park
+07:19	Watford
+07:43	North Harrow
+08:00	run to Rayners lane 0.9mi
+08:26	South on Picadilly to Ealing Common
+08:37	Up one stop to Ealing Broadway -TIGHT INTERCHANGE
+08:45	Central to East Acton	
+09:07	West up to West Ruislip
+09:19	run to Ickenham 0.7 mi
+09:26	Uxbridge
+09:54	Preston Road
+09:59	Northwick park
+10:05	run to Kenton	0.3 mi
+10:09	Harrow and Wealdstone
+11:02	Elephant and Castle. -TIGHT INTERCHANGE
+11:06	London Bridge. -(Frequent Trains from here)
+11:10	Southwark. Immediately backtrack. -TIGHT INTERCHANGE
+11:25	West Ham.
+11:57	District to Upminster.
+	Backtrack to []
+(OPTION: If you can switch to a Ham City train, do, and switch to a Circle train at Liverpool Street instead. This means you have to wait for one Circle train, not two.)
+A: Tower Hill - Circle - Circle
+12:41	Tower Hill -TIGHT (or rather immediate) INTERCHANGE
+12:43	Aldgate (alt:12:53 - trains every 10 mins)
+13:0717	Sloane Square
+
+B:
+12:40	Aldgate East
+12:46	Liverpool Street
+13:0717	Sloane Square	-TIGHT INTERCHANGE 
+	Take Circle to Sloane Square. Backtrack to Victoria, pick up Victoria line to Brixton.
+	Up one to Stockwell.
+	Up one to Kennington.
+	Down to Morden.
+	A: Run from Morden to Wimbledon
+	B: Backrrack to South Wimbledon
+	District up to Earls Court
+	Take an Olympia train. :O
+	Run from Olympia to Shepherd's Bush
+	Take Central (Hainault Loop)
+	Backtrack from Woodford to Epping.
+	Epping to Snaresbrook.
+	Run from Snaresbrook to Walthamstow Central
+	Walthamstow Central to Warren Street.
+	Warren Street to Goodge Street.
+	Goodge Street to Edgware.
+	Run from Edgware to Canon's Park
+	Backtrack to Stanmore
+	Jubilee to Baker Street
+	Three lines to Moorgate
+	Northern up to Mill Hill East
+	Backtrack to Finchley Central
+	Northern up to High Barnet
+	Run from High Barnet to Cockfosters (holy fuck)
+	Picadilly to South Ken. Switch to Circle - to Edgware Road
+	Take Ham City to Hammersmith
+	Take whichever comes first to West Ken
+	Take Picadilly (term. 4&123) to 123
+	Take 123 to 5. Complete!
